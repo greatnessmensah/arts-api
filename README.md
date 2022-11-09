@@ -1,5 +1,7 @@
 # Arts-API
 
+Arts API is an API used for managing museums and various artifacts in them. I created this while learning Flask as a beginner.
+
 ## Getting Started
 
 ### Prerequisites
